@@ -13,9 +13,12 @@ Dari tahun 2016 hingga 2018, Monthly Active User (MAU) mengalami kenaikan secara
 ### Analisis Kualitas Kategori Produk Tahunan
 Dalam analisis kualitas kategori produk, Saya menemukan: 
 - Pertama, pendapatan total perusahaan meningkat dari tahun 2016 hingga 2018, yang menunjukkan pertumbuhan bisnis yang positif.
+
 - Kedua, jumlah cancel order juga mengalami kenaikan, yang dapat mengindikasikan beberapa masalah potensial terkait dengan kualitas produk atau pengalaman pelanggan.
+
 - Ketiga, kategori produk yang memberikan pendapatan tertinggi setiap tahunnya dapat berubah. Ini menunjukkan fleksibilitas perusahaan dalam menyesuaikan strategi produk mereka.
-- Keempat, kategori produk dengan pembatalan terbanyak juga mengalami perubahan setiap tahun. Hal ini bisa mengindikasikan masalah potensial yang perlu dianalisis lebih lanjut.
+
+- - Keempat, kategori produk dengan pembatalan terbanyak juga mengalami perubahan setiap tahun. Hal ini bisa mengindikasikan masalah potensial yang perlu dianalisis lebih lanjut.
 ### Penggunaan Jenis Pembayaran Tahunan
 Dalam analisis jenis pembayaran, Saya menemukan:
 Kartu kredit adalah jenis pembayaran yang paling diminati oleh pelanggan, diikuti oleh "boleto" dan "voucher." Ini menunjukkan preferensi pelanggan terhadap metode pembayaran tertentu.
